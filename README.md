@@ -1,6 +1,9 @@
-<h1 align="center">✨ My 6.1040 Portfolio ✨</h1>
 <p align="center">
   <img src="assets/snoopy.png" width="250">
+</p>
+
+<p align="center">
+  ✨ hii this is snoopy ~ welcome to my 6.1040 portfolio ✨
 </p>
 
 # Table of Contents
