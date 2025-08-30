@@ -10,9 +10,12 @@
 I was born in the *Daisy Hill Puppy Farm* on Oct 4, 1950 (i'm so old). I moved in with Charlie Brown when I was a pup, and I now live in the doghouse. It has a secret library and a pool table! 
 
 
-# Table of Contents
-[Assignment 1]((assignment-1.md)
-[Assignment 2]((assignment-2.md)
-[Assignment 3]((assignment-3.md)
-...
+# Assignments
+[Assignment 1 - Problem Scope](assignments/a1.md) 
 
+
+# Exercises
+[Exercise 1 - Concept Design](exercises/e1.md) 
+
+# Team Project
+[Team 1 - Problem Definition](team/t1.md) 
